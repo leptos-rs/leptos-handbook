@@ -15,7 +15,6 @@
   - [Code](./contribute/code.md)
   - [Documentation](./contribute/documentation.md)
   - [Educational Content](./contribute/educational_content.md)
-    - [Creator Recommendations](./contribute/educational_content/creator_recommendations.md)
 - [Support]()
   - [Donate](./support/donate.md)
 - [Legal Policies]()
