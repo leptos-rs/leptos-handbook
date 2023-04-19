@@ -1,12 +1,13 @@
 # Strategy
 
 The Leptos marketing strategy focuses on inspiring developers and early adopters. 
-See the [marketing personas](./personas.md) for how this strategy may apply to different 
-cohorts and user groups.
+See the [marketing personas](./personas.md) for how this strategy may manifest as a value 
+proposition for different cohorts and user groups.
+
 The expected path to adoption/use ([our objectives](./objectives.md)) is to reach many users 
 through communication of the [value proposition](./value_proposition.md) to early adopter 
 developers. Those developers will in turn encourage others in their community to use Leptos, 
-including management at their place(s) of work. 
+including management at their place(s) of work.
 
 The strategy works in two phases:
 
