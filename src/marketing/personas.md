@@ -3,7 +3,7 @@
 Personas are currently outlined as demographics. It is recommended to poll the community to 
 develop additional actual personas.
 
-**For each audience we will want to look at:**
+## For each audience we will want to look at:
 
 - What does Rust do differently from the demographic's language
 - What does Rust do better (more easily/consistently/performantly) from the demographic's language
@@ -11,7 +11,7 @@ develop additional actual personas.
 - What does Leptos do better (more easily/consistently/performantly) than the demographic's 
   framework
 
-** Demographics to investigate **
+## Demographics to investigate:
 
 - Full stack javascript developers
 - Front end javascript developers
