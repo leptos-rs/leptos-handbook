@@ -8,3 +8,4 @@ Future features:
 - I want to build something like server components in the next year or so: ie async components guaranteed to run only on the server, integrated seamlessly with the router so you don’t notice. (Similar to islands architecture or React server components)
 - Accessibility linting via the language server or view macro
 - Built in support for some static site generation features would be cool
+- A "Houston" like Ai helper bot
