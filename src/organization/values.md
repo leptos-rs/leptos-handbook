@@ -1,11 +1,13 @@
 # Values
 
-The values for Leptos have yet to be solidified.
+The following values guide the development of Leptos and its associated components:
 
-Notes for it include:
-
-- Openness and approachability (in terms of community and code)
-- Clarity and consistency
-- Use the least powerful and simplest tool/solution available
-- Allow progressive enhancement
-- Hold as few opinions about non-framework use cases as possible
+- **Expressivity (Empower creators):** Leptos encourages its users to build what they want with 
+  flexible 
+  configurable tools.
+- **Compassion (approachability):** Leptos and its communities take the time to understand it 
+  audience to act compassionately and inclusively.
+- **Consistency (expectations):** Behaviour is consistent with expectations and effort is 
+  made to
+  maintain consistency. Consistency creates confidence.
+- **Effortless (performance):** The easy way is the right way, and is the performant way.
